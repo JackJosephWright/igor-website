@@ -1,0 +1,24 @@
+header, footer, h1{
+    background-color:#f1f1f1;
+    padding: 20px;
+    text-align: center;
+    
+
+}
+aside {
+    padding-top: 10px;
+    font-weight: bold;
+
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height:10%;
+    width: auto;
+}
+nav{
+    background-color:#cdd5df;
+
+}
